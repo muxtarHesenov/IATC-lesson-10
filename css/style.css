@@ -1,0 +1,126 @@
+.demo{
+    width: 1000px;
+    height: 600px;
+    background: cadetblue;
+    position: relative;
+    left: 100px;
+    
+}
+p{
+    font-size: 12px;
+    padding: 10px 0px;
+    text-align: center;
+}
+/* SMALL BOXSES START HERE */
+.m1,.m2,.m3,.m4{
+    width: 250px;
+    height: 100px;
+    background: #F3C747FF;
+    float: left;
+    position: relative;
+}
+.m2,.m4{
+    background: #F2CF5BFF;
+}
+.a1,.a2,.a3,.a4{
+    width: 140px;
+    height: 70px;
+    background: whitesmoke;
+    position: absolute;
+    top: 12px;
+    left: 50px;
+    box-shadow:0px 10px 10px 0px #6a6969;
+}
+.a2,.a3{
+    background: #AECCF0FF;
+}
+/* SMALL BOXSES END HERE */
+/* BIG BOXSES START HERE */
+.m5,.m6,.m7,.m8,.m9,.m10,.m11,.m12{
+    width: 250px;
+    height: 250px;
+    background: #6596E7FF;
+    position: relative;
+    float: left;
+}
+.m6,.m8{
+    background: #80A8E9FF;
+}
+.m9,.m11{
+    background: #184585FF;
+}
+.m10,.m12{
+    background: #3F679AFF;
+}
+.b1{
+    top: 55px;
+    left: 40px;
+}
+.b1,.b3,.b4,.b5,.b6,.b7,.b8,.b9,.b10,.b11,.b12,.b13{
+    width: 70px;
+    height: 70px;
+    background: whitesmoke;
+    position: absolute;
+    box-shadow:0px 10px 10px 0px#6a6969;
+}
+.b2{
+    width: 140px;
+    height: 70px;
+    background: #ACCCF2FF;
+    position: absolute;
+    top: 110px;
+    left: 75px;
+    box-shadow:0px 10px 10px 0px#6a6969;
+}
+.b3{
+    top: 100px;
+    left: 50px;
+    background: #F3C747FF;
+}
+.b4{
+    top: 60px;
+    left: 110px;
+}
+.b5{
+    top: 105px;
+    left: 100px;
+    background: #F3C747FF;
+}
+.b6{
+    top: 55px;
+    left: 45px;
+}
+.b7{
+    top: 50px;
+    left: 40px;
+}
+.b8{
+    top: 100px;
+    left: 125px;
+    background: #F3C747FF;
+}
+.b9{
+    top: 120px;
+    left: 110px;
+    background: #F3C747FF;
+}
+.b10{
+    top: 70px;
+    left: 40px;
+    background: #ACCCF2FF;
+}
+.b11{
+    top: 95px;
+    left: 125px;
+}
+.b12{
+    top: 100px;
+    left: 60px;
+    background: #ACCCF2FF;
+}
+.b13{
+    top: 100px;
+    left: 60px;
+    background: #F3C747FF;
+}
+/* BIG BOXSES END HERE */
